@@ -7,7 +7,7 @@ namespace ConsoleApp2
     //comment
     class Class1
     {
-        static void Main(int args)
+        static void Main(char args)
         {
             Console.WriteLine("Novo");
         }
