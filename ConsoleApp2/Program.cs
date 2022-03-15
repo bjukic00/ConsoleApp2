@@ -2,6 +2,14 @@
 
 namespace ConsoleApp2
 {
+    class NewClass
+    {
+        Ctatic void Main(string[] args)
+        {
+            Console.WriteLine("Novo");
+        }
+    }
+
     class Program
     {
         static void Main(string[] args)
