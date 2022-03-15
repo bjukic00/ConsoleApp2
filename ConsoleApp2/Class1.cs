@@ -4,6 +4,7 @@ using System.Text;
 
 namespace ConsoleApp2
 {
+    //comment
     class Class1
     {
     }
