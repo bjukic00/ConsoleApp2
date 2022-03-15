@@ -4,7 +4,7 @@ namespace ConsoleApp2
 {
     class NewClass
     {
-        Ctatic void Main(string[] args)
+        static void Main(string[] args)
         {
             Console.WriteLine("Novo");
         }
